@@ -1,0 +1,3 @@
+[submodule "subz"]
+	path = subz
+	url = git@github.com:mykebates/com.submoduletest.git
